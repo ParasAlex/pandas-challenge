@@ -1,0 +1,37 @@
+Notes for Pymoli HW
+
+1.) 85/15 Male to Female Split; very lopside gender demographics.
+	a.) However, If you look at the Avg Purchase Price and Average Total Purchase price per person,
+	Women account for on average, buy 21.9% more then men. This is something that if possible, a way to market
+	to women should be exploited.
+
+2.) 70 percent of Players are aged 24 and younger; this means you have a huge Adult market untapped.
+	a.) Distribution of Avg Total Purchase also confirms this; your 35-39yr old demographic represented your
+	highest spending per person at $4.76/per.
+
+3.) Final Critic is by far your most popular game; however, #3 Nirvana has a higher purchase price.
+	This is something a good marketing campaign could exploit to boost profits.
+
+
+Notes for PyCity Schools HW
+
+1.) 	Charter Schools = Performance at a Lower Cost per Student; Your Charter Schools accounted for your Top 5 performing Schools.
+	a.) Wilson and Cabera High Schools also accounted for your lowest Per Student Budgets 
+	at $578 and $582 per student.
+	b.) Your Worst Performing Schools were District Schools; all of which had Per Student Budgets between $637 and $655 per Student
+
+3.)	Spending more per Student does not equal in higher grades. Quite the contrary, the best overall scores were at $615 per student and lower.
+	a.) A magnitude size difference (15% and greater loss in Overall Grades) was achieved when spending exceeded $615 per student.
+
+2.) 	Student Body Size makes a difference in grades.
+	a.) The top 5 performing schools had a Student Body average of 1641 students (median of 1635).
+	Your 5 worst performing schools had  a Student Body average of 3743 students (median of 2949). 
+	This is also proved out in your scores by School Size; Large Schools (2000-5000) had the lowest scores on Avg
+	b.) An assumption that could be drawn is that due to larger populations requiring larger class sizes
+	(or more teachers if class size was held constant) has resulted in lower test scores as standards
+	have not been able to be maintained.
+
+3.) 	Scores stay relatively the same across Grades; Whether its for reading or math, when looking at scores by grade,
+	the school roughly had their students average the same from 9th through 12th.
+
+	
