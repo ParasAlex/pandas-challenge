@@ -20,10 +20,10 @@ Notes for PyCity Schools HW
 	at $578 and $582 per student.
 	b.) Your Worst Performing Schools were District Schools; all of which had Per Student Budgets between $637 and $655 per Student
 
-3.)	Spending more per Student does not equal in higher grades. Quite the contrary, the best overall scores were at $615 per student and lower.
+2.)	Spending more per Student does not equal in higher grades. Quite the contrary, the best overall scores were at $615 per student and lower.
 	a.) A magnitude size difference (15% and greater loss in Overall Grades) was achieved when spending exceeded $615 per student.
 
-2.) 	Student Body Size makes a difference in grades.
+3.) 	Student Body Size makes a difference in grades.
 	a.) The top 5 performing schools had a Student Body average of 1641 students (median of 1635).
 	Your 5 worst performing schools had  a Student Body average of 3743 students (median of 2949). 
 	This is also proved out in your scores by School Size; Large Schools (2000-5000) had the lowest scores on Avg
@@ -31,7 +31,7 @@ Notes for PyCity Schools HW
 	(or more teachers if class size was held constant) has resulted in lower test scores as standards
 	have not been able to be maintained.
 
-3.) 	Scores stay relatively the same across Grades; Whether its for reading or math, when looking at scores by grade,
+4.) 	Scores stay relatively the same across Grades; Whether its for reading or math, when looking at scores by grade,
 	the school roughly had their students average the same from 9th through 12th.
 
 	
